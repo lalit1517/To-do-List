@@ -16,3 +16,15 @@ multiple to-do lists, each with its own set of tasks.
 - **Persistent Storage:** Tasks and lists are stored in a MongoDB database, ensuring that the user's data is preserved across sessions.
 
 ## Install Dependencies
+
+npm install
+
+## Configure MongoDB
+
+Set up a MongoDB database and update the connection details in the application.
+
+## Run the application
+
+npm start
+
+The application will be accessible at http://localhost:3000.
