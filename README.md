@@ -28,15 +28,3 @@ Set up a MongoDB database and update the connection details in the application.
 npm start
 
 The application will be accessible at http://localhost:3000.
-
-## Usage
-
-Open the To-Do List App in your web browser.
-
-Add tasks to your to-do list, specifying the task name and details.
-
-Mark tasks as completed and delete them when no longer needed.
-
-Create multiple to-do lists for different purposes.
-
-Manage and organize your tasks efficiently.
